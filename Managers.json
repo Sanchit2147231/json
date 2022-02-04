@@ -6,8 +6,8 @@
 {"name":"Porsche", "modelno":3225436819, "address":"Bannerghatta", "mileage":41, "seller":"Woods, Song", "price":3400},
 {"name":"Jaguar", "modelno":2325182735, "address":"Hosur Road", "mileage":24, "seller":"Citadel, Song", "price":3750},
 {"name":"Tata", "modelno":3223416627, "address":"Gottigere", "mileage":23, "seller":"Paradise, Prestige", "price":2800},
-{"name":"Range Rover", "modelno":3234145562, "address":"Indiranagar", "seller":27, "projects":"Song, Prestige", "price":3700},
-{"name":"Astor Martin", "modelno":8996777739, "address":"Majestic", "seller":25, "projects":"Woods, Prestige", "price":2900}
+{"name":"Range Rover", "modelno":3234145562, "address":"Indiranagar", "mileage":27, "seller":"Song, Prestige", "price":3700},
+{"name":"Astor Martin", "modelno":8996777739, "address":"Majestic", "mileage":25, "seller":"Woods, Prestige", "price":2900}
 ]
 }
 
