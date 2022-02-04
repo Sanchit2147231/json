@@ -1,12 +1,12 @@
 {
     "Managers":[
-{"name":"Ferrari",     "modelno":8900230323, "address":"Bannerghatta Road", "mileage":23, "seller":"Woods, Citadel",     "price":6700},
-{"name":"Mercedez",    "modelno":1234567890, "address":"JP Nagar",          "mileage":27, "seller":"Deepa, Citadel",     "price":1200},
-{"name":"Honda",       "modelno":8976544522, "address":"JP Nagar",          "mileage":33, "seller":"Paradise, Song",     "price":1950},
-{"name":"Porsche",     "modelno":3225436819, "address":"Bannerghatta",      "mileage":41, "seller":"Woods, Song",        "price":3400},
-{"name":"Jaguar",      "modelno":2325182735, "address":"Hosur Road",        "mileage":24, "seller":"Citadel, Song",      "price":3750},
-{"name":"Tata",        "modelno":3223416627, "address":"Gottigere",         "mileage":23, "seller":"Paradise, Prestige", "price":2800},
-{"name":"Range Rover", "modelno":3234145562, "address":"Indiranagar",       "mileage":27, "seller":"Song, Prestige",     "price":3700},
-{"name":"Astor Martin","modelno":8996777739, "address":"Majestic",          "mileage":25, "seller":"Woods, Prestige",     "price":2900}
+{"name":"Ferrari",     "modelno":89008, "address":"Bannerghatta Road", "mileage":23, "seller":"Woods LTD",             "price":1070000},
+{"name":"Mercedez",    "modelno":12345, "address":"JP Nagar",          "mileage":27, "seller":"Worldcar LTD",          "price":9003200},
+{"name":"Honda",       "modelno":89765, "address":"JP Nagar",          "mileage":33, "seller":"Honda LTD",             "price":1950045},
+{"name":"Porsche",     "modelno":32254, "address":"Bannerghatta",      "mileage":41, "seller":"DreamCars LTD",         "price":3450400},
+{"name":"Jaguar",      "modelno":23251, "address":"Hosur Road",        "mileage":24, "seller":"Tata LTD",              "price":3070050},
+{"name":"Tata",        "modelno":32234, "address":"Gottigere",         "mileage":23, "seller":"Tata LTD",              "price":670800},
+{"name":"Range Rover", "modelno":32341, "address":"Indiranagar",       "mileage":27, "seller":"American Cars LTD",     "price":2560700},
+{"name":"Astor Martin","modelno":89967, "address":"Majestic",          "mileage":25, "seller":"Mehra Automobile LTD",  "price":2045900}
 ] 
 }
