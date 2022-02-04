@@ -1,5 +1,5 @@
 {
-    "Managers":[
+    "Vehicles":[
 {"name":"Ferrari",     "modelno":89008, "address":"Bannerghatta Road", "mileage":23, "seller":"Woods LTD",             "price":1070000},
 {"name":"Mercedez",    "modelno":12345, "address":"JP Nagar",          "mileage":27, "seller":"Worldcar LTD",          "price":9003200},
 {"name":"Honda",       "modelno":89765, "address":"JP Nagar",          "mileage":33, "seller":"Honda LTD",             "price":1950045},
